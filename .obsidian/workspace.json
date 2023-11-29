@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data-science/Data Literacy.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data-science/Data Literacy.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data-science/Data Literacy.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data-science/Data Literacy.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "9d6a5e46bcd92e7c",
   "lastOpenFiles": [
+    "data-science/Data Literacy.md",
     "README.md",
     "assets",
-    "data-science/Data Literacy.md",
     "assets/Pasted image 20231128195422.png",
     "Untitled.md",
     "data-science"
