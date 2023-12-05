@@ -1,5 +1,6 @@
 {
   "main": {
+<<<<<<< HEAD
     "id": "aa02e49e5b76d96a",
     "type": "split",
     "children": [
@@ -9,11 +10,26 @@
         "children": [
           {
             "id": "9c80e6c70b82c5f7",
+=======
+    "id": "5e64e482acae3d1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd75daad6e821a9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d6a5e46bcd92e7c",
+>>>>>>> 2be760edfb430b3a438d662202b66fd9b5b6b33b
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "recipes/Server Monitoring.md",
+=======
+                "file": "README.md",
+>>>>>>> 2be760edfb430b3a438d662202b66fd9b5b6b33b
                 "mode": "source",
                 "source": false
               }
@@ -25,6 +41,7 @@
     "direction": "vertical"
   },
   "left": {
+<<<<<<< HEAD
     "id": "e5ad42f847878ac9",
     "type": "split",
     "children": [
@@ -34,6 +51,17 @@
         "children": [
           {
             "id": "179f765c53b31de4",
+=======
+    "id": "72a9a0ce5913e8b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "9162437b62a8cc56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3ca7b44f249c515",
+>>>>>>> 2be760edfb430b3a438d662202b66fd9b5b6b33b
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +71,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "4b2685268c03d63c",
+=======
+            "id": "83521f8735f83715",
+>>>>>>> 2be760edfb430b3a438d662202b66fd9b5b6b33b
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +90,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "422b3988ec9a40ee",
+=======
+            "id": "89f7749712082503",
+>>>>>>> 2be760edfb430b3a438d662202b66fd9b5b6b33b
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,6 +108,7 @@
     "width": 300
   },
   "right": {
+<<<<<<< HEAD
     "id": "43bf7253b073d009",
     "type": "split",
     "children": [
@@ -81,11 +118,26 @@
         "children": [
           {
             "id": "c42251bb301071eb",
+=======
+    "id": "2b5f197e59da739d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0aabd0b53d49570",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7cf54690198f275",
+>>>>>>> 2be760edfb430b3a438d662202b66fd9b5b6b33b
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "recipes/Server Monitoring.md",
+=======
+                "file": "README.md",
+>>>>>>> 2be760edfb430b3a438d662202b66fd9b5b6b33b
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +149,31 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "59c18423383b2e28",
+=======
+            "id": "471e319066f9bcfe",
+>>>>>>> 2be760edfb430b3a438d662202b66fd9b5b6b33b
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "recipes/Server Monitoring.md",
+=======
+                "file": "README.md",
+>>>>>>> 2be760edfb430b3a438d662202b66fd9b5b6b33b
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
+<<<<<<< HEAD
             "id": "893a5d1c0dbbef22",
+=======
+            "id": "2ee09e46174e4765",
+>>>>>>> 2be760edfb430b3a438d662202b66fd9b5b6b33b
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +184,20 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "31c8bef478f5f653",
+=======
+            "id": "c572dc666b478eab",
+>>>>>>> 2be760edfb430b3a438d662202b66fd9b5b6b33b
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "recipes/Server Monitoring.md"
+=======
+                "file": "README.md"
+>>>>>>> 2be760edfb430b3a438d662202b66fd9b5b6b33b
               }
             }
           }
@@ -146,6 +218,7 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "9c80e6c70b82c5f7",
   "lastOpenFiles": [
     "Pasted image 20231031194820.png",
@@ -153,5 +226,15 @@
     "Pasted image 20231031194218.png",
     "README.md",
     "recipes"
+=======
+  "active": "9d6a5e46bcd92e7c",
+  "lastOpenFiles": [
+    "data-science/Data Literacy.md",
+    "README.md",
+    "assets",
+    "assets/Pasted image 20231128195422.png",
+    "Untitled.md",
+    "data-science"
+>>>>>>> 2be760edfb430b3a438d662202b66fd9b5b6b33b
   ]
 }
