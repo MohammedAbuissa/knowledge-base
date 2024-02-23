@@ -2,10 +2,10 @@ Lately, I've been monitoring a backend using htop so I came across helpful aid t
 
 ## htop Color coding
 htop color codes the status bars for processor and memory, what do they mean?
-![[Pasted image 20231031194218.png]]
+![[htop_metrics.png]]
 
 Here's the color meaning according to a [StackOverFlow answer](https://serverfault.com/a/180724/328649)
-![[Pasted image 20231031194820.png]]
+![[htop_color_coding.png]]
 
 ## Linux Cache
 
